@@ -1,25 +1,25 @@
 {
-        leaves:[
-            {task_id:10,task_name:"Sick Leave - Self Sick"},
-            {task_id:20,task_name:"Sick Leave - Spouse or Children Sick"}
+        "leaves":[
+            {"task_id":10,"task_id":"Sick Leave - Self Sick"},
+            {"task_id":20,"task_id":"Sick Leave - Spouse or Children Sick"}
         ],
-        projects:[
+        "projects":[
             {
-                project_id:100,project_name:"Admit Me",tasks:[
-                {task_id:123,task_name:"AdmitMe - Find My Match Integration","is_active": "1"},
-                {task_id:124,task_name:"AdmitMe - Our Services video and popup","is_active": "1"},
-                {task_id:125,task_name:"AdmitMe Project Management","is_active": "1"},
-                {task_id:126,task_name:"AdmitMe Project Planning","is_active": "1"}
+                "project_id":100,"project_name":"Admit Me","tasks":[
+                {"task_id":123,"task_id":"AdmitMe - Find My Match Integration","is_active": "1"},
+                {"task_id":124,"task_id":"AdmitMe - Our Services video and popup","is_active": "1"},
+                {"task_id":125,"task_id":"AdmitMe Project Management","is_active": "1"},
+                {"task_id":126,"task_id":"AdmitMe Project Planning","is_active": "1"}
                 ]
             },
             {
-                project_id:101,project_name:"TimeTracker",tasks:[
-                {task_id:102,task_name:"Time Tracker Helping team","is_active": "1"}
+                "project_id":101,"project_name":"TimeTracker","tasks":[
+                {"task_id":102,"task_id":"Time Tracker Helping team","is_active": "1"}
                 ]
             }
         ],
-        learnings:[
-            {task_id:103,task_name:"Ajax call in Angular 5"},
-            {task_id:104,task_name:"Bootstrap Integration in Angular 5"}
+        "learnings":[
+            {"task_id":103,"task_id":"Ajax call in Angular 5"},
+            {"task_id":104,"task_id":"Bootstrap Integration in Angular 5"}
         ]
 }
